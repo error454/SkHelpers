@@ -1,0 +1,8 @@
+//---------------------------------------------------------------------------------------
+// A wrapper for SystemLib.print_string that writes to the log.
+//---------------------------------------------------------------------------------------
+
+(String  in_string : "Hello") 
+[
+  SystemLib.print_string(@@world, in_string, false, true)
+]

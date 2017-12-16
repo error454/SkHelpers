@@ -1,0 +1,11 @@
+//---------------------------------------------------------------------------------------
+// A wrapper for SystemLib.print_string that writes to the screen.
+//---------------------------------------------------------------------------------------
+
+(String  in_string            : "Hello"
+ Real    duration             : 0.0
+ Color   text_color           : Color!rgba(0.0,0.66,1.0,1.0)
+ ) 
+[
+  SystemLib.print_string(@@world, in_string, true, false, text_color, duration)
+]
