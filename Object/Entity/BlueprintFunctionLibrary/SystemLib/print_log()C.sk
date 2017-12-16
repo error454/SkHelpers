@@ -1,5 +1,16 @@
 //---------------------------------------------------------------------------------------
-// A wrapper for SystemLib.print_string that writes to the log.
+// A wrapper for SystemLib.print_string that writes to the output log.
+// Params:
+//   in_string: 
+//     The string to print
+//
+// Notes:
+//     Just a wrapper around SystemLib.print_string
+//
+// Examples:
+//    SystemLib.print_log("This goes to the log")
+//    SystemLib.print_log("Velocity: " + velocity)
+//---------------------------------------------------------------------------------------
 //---------------------------------------------------------------------------------------
 
 (String  in_string : "Hello") 

@@ -1,5 +1,21 @@
 //---------------------------------------------------------------------------------------
 // A wrapper for SystemLib.print_string that writes to the screen.
+// Params:
+//   in_string: 
+//     The string to print
+//
+//   duration:
+//     How long to leave the text on the screen, 0.0 will result in a single frame
+//
+//   text_color:
+//     The color of the text
+// Notes:
+//     Just a wrapper around SystemLib.print_string
+//
+// Examples:
+//    SystemLib.print_screen("Easy for printing in a loop")
+//    SystemLib.print_screen("Print a one-shot and leave it on for 5-seconds", 5.0)
+//    SystemLib.print_screen("I just really need green", 5.0, Color!green)  
 //---------------------------------------------------------------------------------------
 
 (String  in_string            : "Hello"
