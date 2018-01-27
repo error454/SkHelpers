@@ -32,7 +32,7 @@ Overlay9=Project|Project
 * [aspect\_ratio\_constrained?](https://github.com/error454/SkHelpers/blob/master/Object/Entity/ActorComponent/SceneComponent/CameraComponent/aspect_ratio_constrained-Q().sk)
 
 ### GameLib
-* [deproject\_nscreen\_to\_world](https://github.com/error454/SkHelpers/blob/master/Object/Entity/BlueprintFunctionLibrary/GameLib/deproject_nscreen_to_world()C().sk)
+* [deproject\_nscreen\_to\_world](https://github.com/error454/SkHelpers/blob/master/Object/Entity/BlueprintFunctionLibrary/GameLib/deproject_nscreen_to_world()C.sk)
 * [deproject\_point\_to\_plane](https://github.com/error454/SkHelpers/blob/master/Object/Entity/BlueprintFunctionLibrary/GameLib/deproject_point_to_plane()C.sk)
 * [viewport\_coordinates\_norm\_to\_screen](https://github.com/error454/SkHelpers/blob/master/Object/Entity/BlueprintFunctionLibrary/GameLib/viewport_coordinates_norm_to_screen()C.sk)
 * [viewport\_coordinates\_screen\_to\_norm](https://github.com/error454/SkHelpers/blob/master/Object/Entity/BlueprintFunctionLibrary/GameLib/viewport_coordinates_screen_to_norm()C.sk)
@@ -88,7 +88,7 @@ Overlay9=Project|Project
             * [\_wait\_anim\_state](https://github.com/error454/SkHelpers/blob/master/Object/Entity/AnimInstance/_wait_anim_state().sk)
         * BlueprintFunctionLibrary
             * GameLib
-                * [deproject\_nscreen\_to\_world](https://github.com/error454/SkHelpers/blob/master/Object/Entity/BlueprintFunctionLibrary/GameLib/deproject_nscreen_to_world()C().sk)
+                * [deproject\_nscreen\_to\_world](https://github.com/error454/SkHelpers/blob/master/Object/Entity/BlueprintFunctionLibrary/GameLib/deproject_nscreen_to_world()C.sk)
                 * [deproject\_point\_to\_plane](https://github.com/error454/SkHelpers/blob/master/Object/Entity/BlueprintFunctionLibrary/GameLib/deproject_point_to_plane()C.sk)
                 * [viewport\_coordinates\_norm\_to\_screen](https://github.com/error454/SkHelpers/blob/master/Object/Entity/BlueprintFunctionLibrary/GameLib/viewport_coordinates_norm_to_screen()C.sk)
                 * [viewport\_coordinates\_screen\_to\_norm](https://github.com/error454/SkHelpers/blob/master/Object/Entity/BlueprintFunctionLibrary/GameLib/viewport_coordinates_screen_to_norm()C.sk)
