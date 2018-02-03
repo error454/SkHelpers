@@ -42,9 +42,18 @@ Overlay9=Project|Project
 
 * [!fake](https://github.com/error454/SkHelpers/blob/master/Object/UStruct/HitResult/!fake().sk)
 
+### Integer
+
+* [even?](https://github.com/error454/SkHelpers/blob/master/Object/Integer/even-Q().sk)
+* [odd?](https://github.com/error454/SkHelpers/blob/master/Object/Integer/odd-Q().sk)
+
 ### LevelSequenceActor
 
 * [jump\_to\_end](https://github.com/error454/SkHelpers/blob/master/Object/Entity/Actor/LevelSequenceActor/jump_to_end().sk)
+
+### Object
+
+* [\_wait\_frames](https://github.com/error454/SkHelpers/blob/master/Object/_wait_frames().sk)
 
 ### PlayerController
 
@@ -71,6 +80,7 @@ Overlay9=Project|Project
 ## Hierarchical
 
 * Object
+    * [\_wait\_frames](https://github.com/error454/SkHelpers/blob/master/Object/_wait_frames().sk)
     * Boolean
         * [\_wait\_cycle\_return\_value](https://github.com/error454/SkHelpers/blob/master/Object/Boolean/_wait_cycle_return_value().sk)
     * Entity
@@ -102,6 +112,9 @@ Overlay9=Project|Project
                 * [play](https://github.com/error454/SkHelpers/blob/master/Object/Entity/SoundBase/SoundCue/play().sk)
         * World
             * [\_time\_dilation\_ramp](https://github.com/error454/SkHelpers/blob/master/Object/Entity/World/_time_dilation_ramp().sk)
+    * Integer
+        * [even?](https://github.com/error454/SkHelpers/blob/master/Object/Integer/even-Q().sk)
+        * [odd?](https://github.com/error454/SkHelpers/blob/master/Object/Integer/odd-Q().sk)
     * UStruct
         * HitResult
             * [!fake](https://github.com/error454/SkHelpers/blob/master/Object/UStruct/HitResult/!fake().sk)
