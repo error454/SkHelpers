@@ -22,7 +22,7 @@ Overlay9=Project|Project
 
 ### Actor
 
-* [furthest\_in\_dir](https://github.com/error454/SkHelpers/blob/master/Object/Entity/Actor/_furthest_in_dir()C.sk)
+* [furthest\_in\_dir](https://github.com/error454/SkHelpers/blob/master/Object/Entity/Actor/furthest_in_dir()C.sk)
 
 ### AnimInstance
 
@@ -93,7 +93,7 @@ Overlay9=Project|Project
         * [\_wait\_cycle\_return\_value](https://github.com/error454/SkHelpers/blob/master/Object/Boolean/_wait_cycle_return_value().sk)
     * Entity
         * Actor
-            * [furthest\_in\_dir](https://github.com/error454/SkHelpers/blob/master/Object/Entity/Actor/_furthest_in_dir()C.sk)
+            * [furthest\_in\_dir](https://github.com/error454/SkHelpers/blob/master/Object/Entity/Actor/furthest_in_dir()C.sk)
             * Controller
                 * PlayerController
                     * [active\_camera](https://github.com/error454/SkHelpers/blob/master/Object/Entity/Actor/Controller/PlayerController/active_camera().sk)
