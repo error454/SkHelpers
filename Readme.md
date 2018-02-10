@@ -19,7 +19,11 @@ Overlay9=Project|Project
 
 # What's Included 
 ## (Alphabetical by class)
-        
+
+### Actor
+
+* [furthest\_in\_dir](https://github.com/error454/SkHelpers/blob/master/Object/Entity/Actor/_furthest_in_dir()C.sk)
+
 ### AnimInstance
 
 * [\_wait\_anim\_state](https://github.com/error454/SkHelpers/blob/master/Object/Entity/AnimInstance/_wait_anim_state().sk)
@@ -73,6 +77,10 @@ Overlay9=Project|Project
 
 * [near?](https://github.com/error454/SkHelpers/blob/master/Object/Transform/near-Q().sk)
 
+### Vector3
+
+* [!one](https://github.com/error454/SkHelpers/blob/master/Object/Vector3/!one().sk)
+
 ### World
 
 * [\_time\_dilation\_ramp](https://github.com/error454/SkHelpers/blob/master/Object/Entity/World/_time_dilation_ramp().sk)
@@ -85,6 +93,7 @@ Overlay9=Project|Project
         * [\_wait\_cycle\_return\_value](https://github.com/error454/SkHelpers/blob/master/Object/Boolean/_wait_cycle_return_value().sk)
     * Entity
         * Actor
+            * [furthest\_in\_dir](https://github.com/error454/SkHelpers/blob/master/Object/Entity/Actor/_furthest_in_dir()C.sk)
             * Controller
                 * PlayerController
                     * [active\_camera](https://github.com/error454/SkHelpers/blob/master/Object/Entity/Actor/Controller/PlayerController/active_camera().sk)
@@ -120,3 +129,5 @@ Overlay9=Project|Project
             * [!fake](https://github.com/error454/SkHelpers/blob/master/Object/UStruct/HitResult/!fake().sk)
     * Transform
         * [near?](https://github.com/error454/SkHelpers/blob/master/Object/Transform/near-Q().sk)
+    * Vector3
+        * [!one](https://github.com/error454/SkHelpers/blob/master/Object/Vector3/!one().sk)
