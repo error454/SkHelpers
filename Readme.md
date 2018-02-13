@@ -30,7 +30,10 @@ Overlay9=Project|Project
 
 ### Boolean
 
+* [map](https://github.com/error454/SkHelpers/blob/master/Object/Boolean/map().sk)
 * [\_wait\_cycle\_return\_value](https://github.com/error454/SkHelpers/blob/master/Object/Boolean/_wait_cycle_return_value().sk)
+* [\_wait\_false\_true](https://github.com/error454/SkHelpers/blob/master/Object/Boolean/_wait_false_true().sk)
+* [\_wait\_true\_false](https://github.com/error454/SkHelpers/blob/master/Object/Boolean/_wait_true_false().sk)
 
 ### CameraComponent
 * [aspect\_ratio\_constrained?](https://github.com/error454/SkHelpers/blob/master/Object/Entity/ActorComponent/SceneComponent/CameraComponent/aspect_ratio_constrained-Q().sk)
@@ -90,7 +93,10 @@ Overlay9=Project|Project
 * Object
     * [\_wait\_frames](https://github.com/error454/SkHelpers/blob/master/Object/_wait_frames().sk)
     * Boolean
+        * [map](https://github.com/error454/SkHelpers/blob/master/Object/Boolean/map().sk)
         * [\_wait\_cycle\_return\_value](https://github.com/error454/SkHelpers/blob/master/Object/Boolean/_wait_cycle_return_value().sk)
+        * [\_wait\_false\_true](https://github.com/error454/SkHelpers/blob/master/Object/Boolean/_wait_false_true().sk)
+        * [\_wait\_true\_false](https://github.com/error454/SkHelpers/blob/master/Object/Boolean/_wait_true_false().sk)
     * Entity
         * Actor
             * [furthest\_in\_dir](https://github.com/error454/SkHelpers/blob/master/Object/Entity/Actor/furthest_in_dir()C.sk)
