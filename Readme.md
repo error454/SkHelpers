@@ -31,7 +31,10 @@ Overlay9=Project|Project
 
 ### Boolean
 
-* [map](https://github.com/error454/SkHelpers/blob/master/Object/Boolean/map().sk)
+* [as\_ints](https://github.com/error454/SkHelpers/blob/master/Object/Boolean/as_ints().sk)
+* [as\_objs](https://github.com/error454/SkHelpers/blob/master/Object/Boolean/as_objs().sk)
+* [as\_reals](https://github.com/error454/SkHelpers/blob/master/Object/Boolean/as_reals().sk)
+* [as\_vec3s](https://github.com/error454/SkHelpers/blob/master/Object/Boolean/as_vec3s().sk)
 * [\_wait\_cycle\_return\_value](https://github.com/error454/SkHelpers/blob/master/Object/Boolean/_wait_cycle_return_value().sk)
 * [\_wait\_false\_true](https://github.com/error454/SkHelpers/blob/master/Object/Boolean/_wait_false_true().sk)
 * [\_wait\_true\_false](https://github.com/error454/SkHelpers/blob/master/Object/Boolean/_wait_true_false().sk)
@@ -94,7 +97,10 @@ Overlay9=Project|Project
 * Object
     * [\_wait\_frames](https://github.com/error454/SkHelpers/blob/master/Object/_wait_frames().sk)
     * Boolean
-        * [map](https://github.com/error454/SkHelpers/blob/master/Object/Boolean/map().sk)
+        * [as\_ints](https://github.com/error454/SkHelpers/blob/master/Object/Boolean/as_ints().sk)
+        * [as\_objs](https://github.com/error454/SkHelpers/blob/master/Object/Boolean/as_objs().sk)
+        * [as\_reals](https://github.com/error454/SkHelpers/blob/master/Object/Boolean/as_reals().sk)
+        * [as\_vec3s](https://github.com/error454/SkHelpers/blob/master/Object/Boolean/as_vec3s().sk)
         * [\_wait\_cycle\_return\_value](https://github.com/error454/SkHelpers/blob/master/Object/Boolean/_wait_cycle_return_value().sk)
         * [\_wait\_false\_true](https://github.com/error454/SkHelpers/blob/master/Object/Boolean/_wait_false_true().sk)
         * [\_wait\_true\_false](https://github.com/error454/SkHelpers/blob/master/Object/Boolean/_wait_true_false().sk)
