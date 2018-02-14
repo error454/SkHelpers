@@ -22,6 +22,7 @@ Overlay9=Project|Project
 
 ### Actor
 
+* [destroy\_sk\_actor](https://github.com/error454/SkHelpers/blob/master/Object/Entity/Actor/destroy_sk_actor().sk)
 * [furthest\_in\_dir](https://github.com/error454/SkHelpers/blob/master/Object/Entity/Actor/furthest_in_dir()C.sk)
 
 ### AnimInstance
@@ -99,6 +100,7 @@ Overlay9=Project|Project
         * [\_wait\_true\_false](https://github.com/error454/SkHelpers/blob/master/Object/Boolean/_wait_true_false().sk)
     * Entity
         * Actor
+            * [destroy\_sk\_actor](https://github.com/error454/SkHelpers/blob/master/Object/Entity/Actor/destroy_sk_actor().sk)
             * [furthest\_in\_dir](https://github.com/error454/SkHelpers/blob/master/Object/Entity/Actor/furthest_in_dir()C.sk)
             * Controller
                 * PlayerController
