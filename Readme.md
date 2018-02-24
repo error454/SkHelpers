@@ -42,6 +42,10 @@ Overlay9=Project|Project
 ### CameraComponent
 * [aspect\_ratio\_constrained?](https://github.com/error454/SkHelpers/blob/master/Object/Entity/ActorComponent/SceneComponent/CameraComponent/aspect_ratio_constrained-Q().sk)
 
+### Controller
+* [\_wait\_pawn\_null](https://github.com/error454/SkHelpers/blob/master/Object/Entity/Actor/Controller/_wait_pawn_null().sk)
+* [\_wait\_pawn\_valid](https://github.com/error454/SkHelpers/blob/master/Object/Entity/Actor/Controller/_wait_pawn_valid().sk)
+
 ### GameLib
 * [deproject\_nscreen\_to\_world](https://github.com/error454/SkHelpers/blob/master/Object/Entity/BlueprintFunctionLibrary/GameLib/deproject_nscreen_to_world()C.sk)
 * [deproject\_point\_to\_plane](https://github.com/error454/SkHelpers/blob/master/Object/Entity/BlueprintFunctionLibrary/GameLib/deproject_point_to_plane()C.sk)
@@ -109,6 +113,8 @@ Overlay9=Project|Project
             * [destroy\_sk\_actor](https://github.com/error454/SkHelpers/blob/master/Object/Entity/Actor/destroy_sk_actor().sk)
             * [furthest\_in\_dir](https://github.com/error454/SkHelpers/blob/master/Object/Entity/Actor/furthest_in_dir()C.sk)
             * Controller
+                * [\_wait\_pawn\_null](https://github.com/error454/SkHelpers/blob/master/Object/Entity/Actor/Controller/_wait_pawn_null().sk)
+                * [\_wait\_pawn\_valid](https://github.com/error454/SkHelpers/blob/master/Object/Entity/Actor/Controller/_wait_pawn_valid().sk)
                 * PlayerController
                     * [active\_camera](https://github.com/error454/SkHelpers/blob/master/Object/Entity/Actor/Controller/PlayerController/active_camera().sk)
             * LevelSequenceActor
