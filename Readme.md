@@ -42,6 +42,9 @@ Overlay9=Project|Project
 ### CameraComponent
 * [aspect\_ratio\_constrained?](https://github.com/error454/SkHelpers/blob/master/Object/Entity/ActorComponent/SceneComponent/CameraComponent/aspect_ratio_constrained-Q().sk)
 
+### Color
+* [near?](https://github.com/error454/SkHelpers/blob/master/Object/Color/near-Q().sk)
+
 ### Controller
 * [\_wait\_pawn\_null](https://github.com/error454/SkHelpers/blob/master/Object/Entity/Actor/Controller/_wait_pawn_null().sk)
 * [\_wait\_pawn\_valid](https://github.com/error454/SkHelpers/blob/master/Object/Entity/Actor/Controller/_wait_pawn_valid().sk)
@@ -73,6 +76,9 @@ Overlay9=Project|Project
 ### PlayerController
 
 * [active\_camera](https://github.com/error454/SkHelpers/blob/master/Object/Entity/Actor/Controller/PlayerController/active_camera().sk)
+
+### Random
+* [vector3\_between](https://github.com/error454/SkHelpers/blob/master/Object/Random/vector3_between().sk)
 
 ### SoundCue
 
@@ -108,6 +114,8 @@ Overlay9=Project|Project
         * [\_wait\_cycle\_return\_value](https://github.com/error454/SkHelpers/blob/master/Object/Boolean/_wait_cycle_return_value().sk)
         * [\_wait\_false\_true](https://github.com/error454/SkHelpers/blob/master/Object/Boolean/_wait_false_true().sk)
         * [\_wait\_true\_false](https://github.com/error454/SkHelpers/blob/master/Object/Boolean/_wait_true_false().sk)
+    * Color
+        * [near?](https://github.com/error454/SkHelpers/blob/master/Object/Color/near-Q().sk)
     * Entity
         * Actor
             * [destroy\_sk\_actor](https://github.com/error454/SkHelpers/blob/master/Object/Entity/Actor/destroy_sk_actor().sk)
@@ -144,6 +152,8 @@ Overlay9=Project|Project
     * Integer
         * [even?](https://github.com/error454/SkHelpers/blob/master/Object/Integer/even-Q().sk)
         * [odd?](https://github.com/error454/SkHelpers/blob/master/Object/Integer/odd-Q().sk)
+    * Random    
+        * [vector3\_between](https://github.com/error454/SkHelpers/blob/master/Object/Random/vector3_between().sk)
     * UStruct
         * HitResult
             * [!fake](https://github.com/error454/SkHelpers/blob/master/Object/UStruct/HitResult/!fake().sk)
