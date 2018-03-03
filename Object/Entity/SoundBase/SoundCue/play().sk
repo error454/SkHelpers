@@ -8,10 +8,13 @@
  Real             start_time           : 0.0
  SoundConcurrency concurrency_settings : SoundConcurrency!null) 
 [
-  GameLib.play_sound_2d(world_context_object
-    this
-    volume_multiplier
-    pitch_multiplier
-    start_time
-    concurrency_settings)
+  if valid?
+  [
+    GameLib.play_sound_2d(world_context_object
+      this
+      volume_multiplier
+      pitch_multiplier
+      start_time
+      concurrency_settings)
+  ]
 ]
